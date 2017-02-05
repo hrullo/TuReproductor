@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tu Reproductor</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="titulo">Tu Reproductor</string>
+    <string name="opciones">Videos a reproducir</string>
+
+
+</resources>
